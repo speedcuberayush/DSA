@@ -1,6 +1,6 @@
-1. Implementation
-2. 2 stacks in an array 
-3. reverse string using stack
+done 1. Implementation
+done 2. 2 stacks in an array 
+done 3. reverse string using stack
 4. delete middle element from stack(with array and recursion)
 5. valid parenthesis
 6. push at bottom of a stack
