@@ -1,10 +1,10 @@
 done 1. Implementation
 done 2. 2 stacks in an array 
 done 3. reverse string using stack
-4. delete middle element from stack(with array and recursion)
-5. valid parenthesis
-6. push at bottom of a stack
-7. reverse stack
-8. sort a stack
-9. sorted insert in stack 
-10. redundatnt brackets
+done 4. delete middle element from stack(with array and recursion)
+done 5. valid parenthesis
+done 6. push at bottom of a stack
+done 7. reverse stack
+done 8. sort a stack
+done 9. sorted insert in stack 
+done 10. redundatnt brackets
