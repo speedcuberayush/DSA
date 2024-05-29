@@ -4,14 +4,17 @@ using namespace std;
 int main()
 {
     int nodes;
-    cout << "no of nodes : ";
+    cout << "total no. of nodes: ";
     cin >> nodes;
-    cout << "no of edges : ";
     int edges;
+    cout << "total no. of edges: ";
     cin >> edges;
+
     vector<vector<int>> graph(edges);
+
     for (int i = 0; i < edges; i++)
     {
+        cout << "Enter the " << i + 1 << " pair: ";
         int u, v;
         cin >> u >> v;
         graph[u].push_back(v);
@@ -24,5 +27,6 @@ int main()
             cout << graph[i][j] << " ";
         cout << endl;
     }
+
     return 0;
 }
