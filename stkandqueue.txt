@@ -1,3 +1,4 @@
+==part 1
 done 1. Implementation
 done 2. 2 stacks in an array 
 done 3. reverse string using stack
@@ -8,3 +9,13 @@ done 7. reverse stack
 done 8. sort a stack
 done 9. sorted insert in stack 
 done 10. redundatnt brackets
+done 11. min steps to make valid brackets
+
+==part 2
+
+12. next smaller element
+13. previous smaller element
+14. next greater element
+15. previous greater element
+
+
