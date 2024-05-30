@@ -3,14 +3,15 @@ using namespace std;
 void solve(vector<int> &arr)
 {
     stack<int> stk;
-    stk.push(-1);
     int n = arr.size();
     for (int i = n - 1; i >= 0; i--)
     {
         int curr = arr[i];
-        while (stk.top() <= curr)
+        while (!stk.empty() && stk.top() <= curr)
             stk.pop();
-        arr[i] = stk.top();
+
+        arr[i] = (!stk.empty()) ? stk.top() : -1;
+        stk.push(curr);
     }
 }
 void display(vector<int> arr)
@@ -22,7 +23,7 @@ void display(vector<int> arr)
 }
 int main()
 {
-    vector<int> arr = {1, 2, 4, 7, 9};
+    vector<int> arr = {9, 7, 2, 4, 1};
     display(arr);
     solve(arr);
     display(arr);
