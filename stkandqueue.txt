@@ -19,3 +19,7 @@ done 14. next greater element
 done 15. previous greater element
 
 ** done 16. Largest area in histogram 
+** 17. Celebrity
+** 18. Maximum rectangle
+** 19. N - stacks in an array
+** 20. getMin() in O(1) TC and SC
