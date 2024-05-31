@@ -10,18 +10,9 @@ void traverse(vector<int> arr)
 }
 int result(vector<int> arr, int e)
 {
-    int low = 0;
-    int high = arr.size() - 1;
-    while (!(low > high))
-    {
-        int mid = (low + high) / 2;
-        if (arr[mid] == e)
-            return mid;
-        else if (arr[mid] > e)
-            high = mid - 1;
-        else
-            low = mid + 1;
-    }
+    for (int i = 0; i < arr.size(); i++)
+        if (arr[i] == e)
+            return i;
     return -1;
 }
 int main()
