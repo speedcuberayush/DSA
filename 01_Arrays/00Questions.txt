@@ -11,7 +11,7 @@
 11. Max consecutive ones
 12. number appear once and other numbers twice.
 13. Longest subarray with given sum(+ve)
-14. Longest subarray with suym K(+ve & -ve)
+14. Longest subarray with sum K(+ve & -ve)
 
 
 15. 2 sum
@@ -42,4 +42,3 @@
 38. Count Inversions
 39. Reverse Pairs
 40. Maximum Product Subarray
-
