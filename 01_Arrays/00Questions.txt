@@ -1,6 +1,6 @@
-1. Largest ELement
-2. Second Largest
-3. Check Sorted
+done 1. Largest ELement
+done 2. Second Largest
+done 3. Check Sorted
 4. Remove duplicates
 5. Left rotate
 6. Left rotate by D
@@ -10,8 +10,8 @@
 10. Find missing number in the ARRAY
 11. Max consecutive ones
 12. number appear once and other numbers twice.
-13. Longest subarray with given sum(+ve)
-14. Longest subarray with sum K(+ve & -ve)
+** 13. Longest subarray with given sum(+ve)
+** 14. Longest subarray with sum K(+ve & -ve)
 
 
 15. 2 sum
