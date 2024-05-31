@@ -1,0 +1,45 @@
+1. Largest ELement
+2. Second Largest
+3. Check Sorted
+4. Remove duplicates
+5. Left rotate
+6. Left rotate by D
+7. Move zeros to end
+8. Linear Search
+9. UNION
+10. Find missing number in the ARRAY
+11. Max consecutive ones
+12. number appear once and other numbers twice.
+13. Longest subarray with given sum(+ve)
+14. Longest subarray with suym K(+ve & -ve)
+
+
+15. 2 sum
+16. sort 0s 1s and 2s
+17. Majority ELement
+18. Kadane's algorith
+19. Print subarray with max subarray sum 
+20. stock buy and sell
+21. Rearrange +ve and -ve
+22. Next Permutations
+23. Leaders in an ARRAY
+24. Longest consecutive sequeunce in an ARRAY
+25. set matrix 0
+26. Rotate Matrix by 90 deg
+27. Print matrix spiral
+28. Count subarrays with given sum
+
+
+29. Pascal's triangle
+30. Majority Element (n/3)
+31. 3 sum problem
+32. 4 sum problem
+33. Largest subarray with 0 sum
+34. Count number of subarrays with given xor K
+35. Merge Overlapping subintervals
+36. Merge 2 sorted arrays without extra space
+37. Find the repeating and missing number
+38. Count Inversions
+39. Reverse Pairs
+40. Maximum Product Subarray
+
