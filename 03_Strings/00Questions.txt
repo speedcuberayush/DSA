@@ -1,0 +1,29 @@
+---EASY
+done 1. Remove outermost Paranthesis
+done 2. Reverse words in a given string / Palindrome Check
+3. Largest odd number in a string
+4. Longest Common Prefix
+5. Isomorphic String
+6. check whether one string is a rotation of another
+7. Check if two strings are anagram of each other
+
+---MEDIUM
+8.  Sort Characters by frequency
+9.  Maximum Nesting Depth of Paranthesis
+10. Roman Number to Integer and vice versa
+11. Implement Atoi
+12. Count Number of Substrings
+13. Longest Palindromic Substring[Do it without DP]
+14. Sum of Beauty of all substring
+15. Reverse Every Word in A String
+
+---HARD
+16.  Minimum number of bracket reversals needed to make an expression balanced
+17.  Count and say
+18.  Hashing In Strings | Theory
+19.  Rabin Karp
+20.  Z-Function
+21.  KMP algo / LPS(pi) array
+22.  Shortest Palindrome
+23.  Longest happy prefix
+24.  Count palindromic subsequence in given string
