@@ -1,11 +1,11 @@
 ---EASY
 done 1. Remove outermost Paranthesis
 done 2. Reverse words in a given string / Palindrome Check
-3. Largest odd number in a string
-4. Longest Common Prefix
-5. Isomorphic String
-6. check whether one string is a rotation of another
-7. Check if two strings are anagram of each other
+done 3. Largest odd number in a string
+done 4. Longest Common Prefix
+done 5. Isomorphic String
+done 6. check whether one string is a rotation of another
+done 7. Check if two strings are anagram of each other
 
 ---MEDIUM
 8.  Sort Characters by frequency

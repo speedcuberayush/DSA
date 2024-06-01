@@ -14,14 +14,3 @@ public:
         return true;
     }
 };
-
-int main(int argc, char const *argv[])
-{
-
-    string s, t;
-    s = "abcde";
-    t = "abced";
-    Solution st;
-    cout << st.rotateString(s, t) << endl;
-    return 0;
-}
