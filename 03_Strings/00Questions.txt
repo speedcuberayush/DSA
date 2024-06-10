@@ -10,7 +10,7 @@ done 7. Check if two strings are anagram of each other
 ---MEDIUM
 8.  Sort Characters by frequency
 9.  Maximum Nesting Depth of Paranthesis
-10. Roman Number to Integer and vice versa
+done 10. Roman Number to Integer and vice versa
 11. Implement Atoi
 12. Count Number of Substrings
 13. Longest Palindromic Substring[Do it without DP]

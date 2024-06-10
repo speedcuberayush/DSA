@@ -9,7 +9,6 @@ void solve(vector<int> &arr, int s, int e)
         if (arr[j] < arr[e])
             swap(arr[j], arr[++i]);
     swap(arr[++i], arr[e]);
-
     solve(arr, s, i - 1);
     solve(arr, i + 1, e);
 }
@@ -28,6 +27,5 @@ int main()
     solve(arr, 0, arr.size() - 1);
     cout << "AFTER ";
     traverse(arr);
-
     return 0;
 }
