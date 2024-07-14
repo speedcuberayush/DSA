@@ -8,14 +8,14 @@ done 7. Move zeros to end
 done 8. Linear Search
 done 9. UNION
 done 10. Find missing number in the ARRAY
-11. Max consecutive ones
-12. number appear once and other numbers twice.
+done 11. Max consecutive ones
+done 12. number appear once and other numbers twice.
 ** 13. Longest subarray with given sum(+ve)
 ** 14. Longest subarray with sum K(+ve & -ve)
 
 
-15. 2 sum
-16. sort 0s 1s and 2s
+done 15. 2 sum
+done 16. sort 0s 1s and 2s
 17. Majority ELement
 18. Kadane's algorith
 19. Print subarray with max subarray sum 
