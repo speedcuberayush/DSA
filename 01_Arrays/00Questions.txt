@@ -1,13 +1,13 @@
 done 1. Largest ELement
 done 2. Second Largest
 done 3. Check Sorted
-4. Remove duplicates
-5. Left rotate
-6. Left rotate by D
-7. Move zeros to end
-8. Linear Search
-9. UNION
-10. Find missing number in the ARRAY
+done 4. Remove duplicates
+done 5. Left rotate
+done 6. Left rotate by D
+done 7. Move zeros to end
+done 8. Linear Search
+done 9. UNION
+done 10. Find missing number in the ARRAY
 11. Max consecutive ones
 12. number appear once and other numbers twice.
 ** 13. Longest subarray with given sum(+ve)
